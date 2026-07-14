@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv_mnist_pytorch/
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# dataset
+data/source
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Generated animations
+*.mp4
+*.gif
